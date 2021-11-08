@@ -1,6 +1,4 @@
-//
-// Created by we7289 on 4/19/2021.
-//
+
 
 #include "MapT.h"
 #include <unordered_map>
